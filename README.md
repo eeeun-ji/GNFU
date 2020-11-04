@@ -11,10 +11,9 @@
 > It also provides hospital information near schools for 'GNFU' users, and provides hospital ranking based on reviews by sharing reviews among users.
 
 -------------
+### Lanugage & FrameWork
 
 ``` Spring FrameWork ```
  ```  JAVA ``` 
  ```  Oracle SqlDeveloper``` 
-
--------
 
